@@ -29,5 +29,3 @@
 ---
 
 <p align="center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=CiaoHe&show_icons=true&count_private=true&theme=tokyonight&hide=issues&line_height=30" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=CiaoHe&theme=tokyonight" width="400px"></p>
-
-<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiaoHe&layout=compact&theme=tokyonight&hide=html,tex,jupyter%20notebook"></p>
