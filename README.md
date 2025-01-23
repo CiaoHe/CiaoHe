@@ -10,7 +10,7 @@
 - 📫 How to reach me: hecao777@gmail.com
 - 😄 Pronouns: He / His
 - 🇭🇰 Currently location
-- 👷‍♂️ I'm currently working in [IDEA XtalPi-Lab](https://github.com/IDEA-XL)
+- 👷‍♂️ I'm currently working in [IDEA AI4Science](https://github.com/IDEA-XL)
 - ☄️  I'm also the member of [EmoCareAI](https://github.com/EmoCareAI), [IDEA Research](https://github.com/IDEA-Research/)
 
 **languages and tools:**  
