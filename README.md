@@ -6,10 +6,10 @@
 <a href="https://www.zhihu.com/people/caohe-22"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="20px" alt="知乎"></a>
 <a href="https://github.com/CiaoHe/CiaoHe/blob/main/CV.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="20px"> </a>
 
-- 🔭 I’m currently working on Bio-LLMs, Generative Vision Models and more interesting topics.
+- 🔭 I’m currently working on LLMs, Benchmarking, Generative Vision Models, and more interesting topics.
 - 📫 How to reach me: hecao777@gmail.com
 - 😄 Pronouns: He / His
-- 🇭🇰 Currently location
+- 🇭🇰 Current location
 - 👷‍♂️ I'm currently working in [IDEA AI4Science](https://github.com/IDEA-XL)
 - ☄️  I'm also the member of [EmoCareAI](https://github.com/EmoCareAI), [IDEA Research](https://github.com/IDEA-Research/)
 
@@ -24,7 +24,7 @@
 
 <img align="center" alt="GIF" src="https://i0.hdslb.com/bfs/article/d3d9e42367431c79e5a2715ebe86bdc2f1bffc9b.gif@!web-article-pic.avif" width="400" height="320" />
 
-- 🙏 Anyone can help me graduate, is my Lord.
+- 🙏 Thanks, lords!
 - 💻 Still learning coding ...
 
 ---
